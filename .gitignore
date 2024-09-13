@@ -1,0 +1,8 @@
+/.vscode
+/build
+/output
+/app.exe
+/html
+/latex/*
+/latex
+/doxygen-output
